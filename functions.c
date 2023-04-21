@@ -3,6 +3,7 @@
 
 /**
  * print_char - Prints a char
+ * charteym and levin's joint project
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
