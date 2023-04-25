@@ -3,7 +3,11 @@
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned - Prints an unsigned number
+<<<<<<< HEAD
  * charteym C - printf project
+=======
+ * Project by charteym and levin
+>>>>>>> 9d711932f3e15e09fff3693e9447a0e75a4e11e1
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags

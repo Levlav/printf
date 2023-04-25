@@ -1,7 +1,11 @@
 #include "main.h"
 /**
  * get_width - Calculates the width for printing
+<<<<<<< HEAD
  * charteym
+=======
+ * Project by charteym and levin
+>>>>>>> 9d711932f3e15e09fff3693e9447a0e75a4e11e1
  * @format: Formatted string in which to print the arguments.
  * @i: List of arguments to be printed.
  * @list: list of arguments.

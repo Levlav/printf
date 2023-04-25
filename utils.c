@@ -1,6 +1,11 @@
 #include "main.h"
 /**
+<<<<<<< HEAD
  * is_printable - Evaluates if a char is printable or not
+=======
+ * is_printable - Evaluates if a char is printable
+ * Project by charteym and levin
+>>>>>>> 9d711932f3e15e09fff3693e9447a0e75a4e11e1
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise

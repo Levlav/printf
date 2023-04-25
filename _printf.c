@@ -2,7 +2,12 @@
 
 void print_buffer(char buffer[], int *buff_ind);
 /**
+<<<<<<< HEAD
  * _printf - Printf function for this project
+=======
+ * _printf - Printf function
+ * Project by charteym and levin
+>>>>>>> 9d711932f3e15e09fff3693e9447a0e75a4e11e1
  * @format: format.
  * Return: Printed chars.
  */
