@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
  * get_precision - Calculates the precision for printing
- * By charteym and levin Lavatsa
+ * By charteym & levin Lavatsa
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  * @list: list of arguments.
