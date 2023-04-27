@@ -4,8 +4,6 @@
 /**
  * print_char - Prints a char
 <<<<<<< HEAD
- * charteym and levin's joint project
-=======
  * Project by charteym and levin
 <<<<<<< HEAD
 >>>>>>> 9d711932f3e15e09fff3693e9447a0e75a4e11e1
